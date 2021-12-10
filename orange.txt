@@ -1,3 +1,4 @@
 oranges are orange
 Lemons are yellow
 Limes are Green
+All are citrus fruits
